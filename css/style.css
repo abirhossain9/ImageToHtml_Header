@@ -11,14 +11,14 @@ body
 
 .wrapper
 {
-	width: 85%;
+	width: 80%;
 	margin: 0 auto;
 	overflow: hidden;
 
 }
 .logo
 {
-	width: 20 %;
+	width: 10%;
 	float:left;
 
 }
@@ -30,7 +30,7 @@ body
 {
 	width: 70%;
 	float: right;
-	margin-top: 40px;
+	margin-top: 45px;
 }
 
 .menu ul
@@ -45,7 +45,7 @@ body
 .menu ul li a
 {
   text-decoration: none;
-  color: white;s
+  color: white;
   display: block;
   padding: 0 20px;
   text-transform: uppercase;  
